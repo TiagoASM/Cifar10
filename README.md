@@ -1,4 +1,4 @@
-# 🧠 Image Classification with CIFAR-10
+#  Image Classification with CIFAR-10
 
 This project aims to train and provide a deep learning model for **image classification** using the well-known **CIFAR-10** dataset.
 
@@ -24,7 +24,7 @@ Go to master branch.
 
 ---
 
-## 🚀 How to Get the Project
+##  How to Get the Project
 
 To clone this repository, run the following command in your terminal:
 
